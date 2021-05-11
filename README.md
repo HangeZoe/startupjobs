@@ -36,7 +36,7 @@ Nepotřebujeme, abys měl/a léta praxe, rádi poskytneme prostor pro získání
 
 **Design**
 
-Jak má stránka vypadat
+[Jak má stránka vypadat](https://github.com/HangeZoe/startupjobs/blob/main/SJ%20Landing%20Page%20-%20Global%20Affiln%20Partnership%20Landing%20Page.png)
 
 **Texty**
 
