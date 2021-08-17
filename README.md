@@ -72,7 +72,7 @@ The remaining revenue will be invested back to the marketing communication in or
 
 Obrázky
 
-- about.svg
-- who.svg
-- you.svg
-- how.svg
+- [about.svg](https://github.com/HangeZoe/startupjobs/blob/gh-pages/assets/img/about.svg)
+- [who.svg](https://github.com/HangeZoe/startupjobs/blob/gh-pages/assets/img/who.svg)
+- [you.svg](https://github.com/HangeZoe/startupjobs/blob/gh-pages/assets/img/you.svg)
+- [how.svg](https://github.com/HangeZoe/startupjobs/blob/gh-pages/assets/img/how.svg)
